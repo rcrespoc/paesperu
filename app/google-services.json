@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5161107931",
+    "firebase_url": "https://paesperu-6bd6c.firebaseio.com",
+    "project_id": "paesperu-6bd6c",
+    "storage_bucket": "paesperu-6bd6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5161107931:android:58db9c1ab39dc18cb427fe",
+        "android_client_info": {
+          "package_name": "com.example.appmotorizado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5161107931-8q5mig235bh1dkkrfb7gt8irgodfhvt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appmotorizado",
+            "certificate_hash": "457f2acd2fa799d5ffa7db6d4397476041ee1824"
+          }
+        },
+        {
+          "client_id": "5161107931-1mmd5n72p80h0ncgket682i2fmalpfia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv1Y7Vd7Gg4WNwCtJObuVEtEp6sOgyvxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5161107931-1mmd5n72p80h0ncgket682i2fmalpfia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

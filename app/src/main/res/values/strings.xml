@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PAES Motorizado</string>
+    <string name="title_activity_mapa">Coordenadas del cliente</string>
+    <string name="mensajeria">Mensajería</string>
+    <string name="Calificaciones">Calificaciones</string>
+    <string name="Pedidos">Pedidos</string>
+</resources>
